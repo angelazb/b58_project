@@ -3,7 +3,7 @@ Group Project: Clicky
 
 Members: 
 	- Fides Linga
-	- Mathu Monogaran
+	- Mathu Manogaran
 	- Angela Zavaleta Bernuy
 
 GitHub link: https://github.com/angelazb/b58_project
